@@ -1,0 +1,4 @@
+1 Inicio 
+ 2 Pedir al usuario digitar el nombre de un país
+ 3 Presentar en pantalla si la primera letra es vocal en mayúsculas y si no en letras minúsculas 
+4 Fin    
